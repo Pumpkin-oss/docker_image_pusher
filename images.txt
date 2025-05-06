@@ -6,4 +6,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nacos/nacos-server:2.2.3
 apache/rocketmq:4.9.7
-apache/seata-server:1.7.1

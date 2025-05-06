@@ -7,3 +7,5 @@ xhofe/alist:latest
 python:alpine3.19
 openjdk:8-jdk-alpine
 delron/fastdfs
+nacos/nacos-server:1.4.1
+nacos/nacos-server:latest
